@@ -14,9 +14,9 @@ int main()
     Company company1;
     company1.display();
     
-    addEmp(company1,2345,"Laras","Dewantari");
-    addEmp(company1,2346,"Aisyah","Syahputri");
+    addEmp(company1,2345,"Haris","John");
+    addEmp(company1,2346,"Hawbert","Nicholas");
     company1.display();
     
-    addEmp(company1,2346,"Roni","Fahreza");
+    addEmp(company1,2346,"Nico","Faraday");
 }
